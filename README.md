@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hola 🙀! Me llamo Erebothh y soy programador Backend Junior, y soy parte del pequeño Cuervo Studios</h2>
 
 ###
 
