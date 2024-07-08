@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/2470857634697156499/E022A5E07031F2A92707F32C97DE26A8009C4A80/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
