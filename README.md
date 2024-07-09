@@ -45,7 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mastodon/6364FF" height="30" alt="mastodon logo"  />
 </div>
 
 ###
