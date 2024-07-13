@@ -1,4 +1,4 @@
-<h2 align="left">Hola, me llamo Erebothh y soy programador Backend Junior, y soy parte del pequeño Cuervo Studios</h2>
+<h2 align="left">Hola, me llamo Erebothh y soy programador Backend Junior, siempre apuntando a FullStack</h2>
 
 ###
 
