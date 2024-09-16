@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/XCYLnEI.gif"  />
+<img align="right" height="150" src="https://giphy.com/embed/0hv8d4HrDVI6m7w7pF"/>
 
 ###
 
