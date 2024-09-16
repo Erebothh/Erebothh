@@ -1,4 +1,5 @@
-<h2 align="left">Hola, me llamo Erebothh y soy programador Backend Junior, siempre apuntando a FullStack</h2>
+<h2 align="left">Hola, me llamo Erebothh y soy programador Backend Junior, siempre apuntando a FullStack
+tambien estoy interesado en la Ciberseguridad y el Bug Bounty</h2>
 
 ###
 
