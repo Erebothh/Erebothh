@@ -7,7 +7,7 @@
 
 ###
 
-<h3>Lenguajes</h3>
+<h5>Lenguajes</h5>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -27,7 +27,7 @@
 
 ###
 
-<h3>IDE's</h3>
+<h5>IDE's</h5>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -43,7 +43,7 @@
 
 ###
 
-<h3>Diseño Gráfico</h3>
+<h5>Diseño Gráfico</h5>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
