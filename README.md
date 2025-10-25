@@ -52,7 +52,7 @@
 
 ###
 
-<h3>SO</h3>
+<h5>SO</h5>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
