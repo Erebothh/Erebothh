@@ -83,5 +83,6 @@
 <h5>Certificados</h5>
 
 <div align="left">
-  <div data-iframe-width="12" data-iframe-height="12" data-share-badge-id="d4744566-0a5f-4a09-8b30-31eb75eca903" data-share-badge-host="https://www.credly.com"></div>
+  <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="30" alt="certf-1"  />
+  <img width="12" />
 </div>
