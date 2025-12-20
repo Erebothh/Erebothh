@@ -83,6 +83,6 @@
 <h5>Certificados</h5>
 
 <div align="left">
-  <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="50" alt="certf-1"  />
-  <img width="50" />
+  <a href="https://www.credly.com/badges/d4744566-0a5f-4a09-8b30-31eb75eca903/public_url"><img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="50" alt="certf-1"  />
+  <img width="50" /></a>
 </div>
