@@ -83,5 +83,5 @@
 <h5>Certificados</h5>
 
 <div align="left">
-  <div data-iframe-width="12" data-iframe-height="12" data-share-badge-id="d4744566-0a5f-4a09-8b30-31eb75eca903" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="12" data-iframe-height="12" data-share-badge-id="d4744566-0a5f-4a09-8b30-31eb75eca903" data-share-badge-host="https://www.credly.com"></div>
 </div>
