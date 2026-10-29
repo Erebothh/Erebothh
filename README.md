@@ -1,85 +1,54 @@
-<h2 align="left">Hola, me llamo Erebothh y soy programador Backend Junior, siempre apuntando a FullStack; también estoy interesado en la ciberseguridad y el bug bounty</h2>
+# Hola, soy Thiago 👋
 
-###
+**Desarrollador Full-Stack Junior** · Villa Mercedes, San Luis, Argentina · Remoto (UTC-3)
 
-<img align="right" height="150" src="https://i.gifer.com/origin/ba/ba5db81c6038c9bdb9a163567791bc8f_w200.gif">
+Diseño la interfaz, la programo y me encargo del servidor donde corre.
+Eso significa que no necesitás a tres personas distintas para publicar un proyecto.
 
-###
+---
 
-<h5>Lenguajes</h5>
+## Qué hago
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/250px-C_Logo.png" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-</div>
+- **Frontend** — React, Svelte, JavaScript (ES6+), Tailwind CSS, HTML/CSS responsive
+- **Backend** — PHP, SQL, APIs REST, modelado de datos
+- **Sistemas** — administración Linux, configuración de hosting, redes
+- **Diseño** — Figma: wireframes, mockups y handoff
 
-###
+---
 
-<h5>Frameworks / Librerías</h5>
+## Proyectos
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/61/3/daisyui-logo-png_seeklogo-616852.png" height="30" alt="daisyUI logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-</div>
+| Proyecto | Qué es | Stack | Estado |
+|---|---|---|---|
+| [**Agenda EPYA**](https://github.com/Erebothh/Agenda-epya) | Gestor de contactos por consola con búsqueda rápida y almacenamiento local | C++ | Terminado |
+| **Busya** | Prototipo de buscador de negocios locales (full-stack, en equipo) | JavaScript, JSON | Prototipo |
+| **C.T.M.I.** | Sitio web para empresa de mantenimiento industrial — relevamiento, Figma y frontend completo | HTML, CSS, JS | Pausado por el cliente |
 
-###
+---
 
+## Stack
 
-<h5>Base de datos</h5>
+```
+Frontend   JavaScript · React · Svelte · HTML5 · CSS3 · Tailwind · Bootstrap
+Backend    PHP · SQL (MySQL) · REST APIs · JSON
+Mobile     Dart / Flutter
+Otros      Java · C · C++ · Python · Bash
+Sistemas   Linux · Git/GitHub · hosting · redes
+Diseño     Figma
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-</div>
+---
 
-###  
+## Ahora mismo
 
+- 📚 Primer año de **Programación Universitaria** en la UNViMe
+- 🔨 Construyendo proyectos propios para practicar arquitectura y despliegue
+- 🎯 Buscando mi **primer rol como desarrollador** — full-time o part-time, remoto
 
+---
 
-<h5>Herramientas / IDEs</h5>
+## Contacto
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h5>SO</h5>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows8 logo"  />
-</div>
-
-###
-
-<h5>Certificados</h5>
-
-<div align="left">
-  <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="50" alt="certf-1"  />
-  <img width="50" />
-</div>
+- ✉️ thiagosturzeneggervarela@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/thiago-sturzenegger)
+- 📍 Villa Mercedes, San Luis, Argentina (UTC-3)
