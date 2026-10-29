@@ -50,5 +50,5 @@ Diseño     Figma
 ## Contacto
 
 - ✉️ thiagosturzeneggervarela@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/thiago-sturzenegger)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thiago-sturzenegger-varela-887664342/)
 - 📍 Villa Mercedes, San Luis, Argentina (UTC-3)
