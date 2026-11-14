@@ -28,10 +28,6 @@ Eso significa que no necesitás a tres personas distintas para publicar un proye
 
 ---
 
-## Stack
-
----
-
 ## Ahora mismo
 
 - 📚 Primer año de **Programación Universitaria** en la UNViMe
