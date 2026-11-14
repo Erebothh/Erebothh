@@ -1,9 +1,8 @@
 # Hola, soy Thiago 👋
 
-**Desarrollador Full-Stack Junior** · Villa Mercedes, San Luis, Argentina · Remoto (UTC-3)
+**Desarrollador Full-Stack Junior enfocado en Backend** · Villa Mercedes, San Luis, Argentina · Remoto (UTC-3)
 
 Diseño la interfaz, la programo y me encargo del servidor donde corre.
-Eso significa que no necesitás a tres personas distintas para publicar un proyecto.
 
 ---
 
