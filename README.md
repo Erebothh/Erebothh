@@ -9,9 +9,11 @@ Eso significa que no necesitás a tres personas distintas para publicar un proye
 
 ## Qué hago
 
-- **Frontend** — React, Svelte, JavaScript (ES6+), Tailwind CSS, HTML/CSS responsive
-- **Backend** — PHP, SQL, APIs REST, modelado de datos
-- **Sistemas** — administración Linux, configuración de hosting, redes
+- **Frontend** — React, Svelte, JavaScript (ES6+), Tailwind CSS, HTML/CSS responsive 
+- **Backend** —  PHP · SQL (MySQL) · REST APIs · JSON
+- **Mobile**  —  Dart / Flutter
+- **Otros**  —  Java · C · C++ · Python · Bash
+- **Sistemas** — administración Linux, configuración de hosting, redes, y homelabs
 - **Diseño** — Figma: wireframes, mockups y handoff
 
 ---
@@ -27,15 +29,6 @@ Eso significa que no necesitás a tres personas distintas para publicar un proye
 ---
 
 ## Stack
-
-```
-Frontend   JavaScript · React · Svelte · HTML5 · CSS3 · Tailwind · Bootstrap
-Backend    PHP · SQL (MySQL) · REST APIs · JSON
-Mobile     Dart / Flutter
-Otros      Java · C · C++ · Python · Bash
-Sistemas   Linux · Git/GitHub · hosting · redes
-Diseño     Figma
-```
 
 ---
 
