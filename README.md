@@ -21,7 +21,7 @@ Diseño la interfaz, la programo y me encargo del servidor donde corre.
 
 | Proyecto | Qué es | Stack | Estado |
 |---|---|---|---|
-| [**Agenda EPYA**](https://github.com/Erebothh/Agenda-epya) | Gestor de contactos por consola con búsqueda rápida y almacenamiento local | C++ | Terminado |
+| [**OrbitaLab**](https://www.orbitalab.earth/) | Una Web que enseña mediante un Juego como es ser parte de una Misión Espacial | TS, JSON, JS | Terminado |
 | [**Busya**](https://busya-prototipo.vercel.app/) | Prototipo de buscador de negocios locales (full-stack, en equipo) | JavaScript, JSON | Prototipo |
 | **C.T.M.I.** | Sitio web para empresa de mantenimiento industrial — relevamiento, Figma y frontend completo | HTML, CSS, JS | Pausado por el cliente |
 
